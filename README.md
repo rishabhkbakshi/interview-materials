@@ -5,21 +5,7 @@ Here I am sharing the program which was asked to me in the Interview (I am writi
 "abdacf" and "jhdashf" => Find the first duplicate alphabet in this string (write an efficient program).
 
 # 2
-1. My name is Rajat Arora => (Without using inbuild functions)
-	String str = "My name is Rajat Arora";
-	1. arora tajar si eman ym (Without using any inbuilt method)
-  2. My name is Rajat Arora
-      My name is Rajat
-        My name is
-         My name
-          My
-  3. My name is Rajat Arora
--    Arora Rajat is name My (Rajat is name my)
-   	 My name is Rajat (Name is Rajat)
-   	 Rajat is name (Is name)
-   	 name is (Name)
-	   is
-  4. yM eman si tajaR arorA 
+String manipulation program => See the code, I added the comment for question
 
 # 3
 WAP to print a fabonocci series (only logic).
@@ -67,18 +53,21 @@ Ex. If the contents of the array is {5,8,4,3,2,10,9,7,5,3,12,2}, then the longes
 
 # 12
 Write method definition where a-array, n-no of elements in the array.
+
 void reverse(int a[], int n) {
 
 }
 
 # 13
 Write method definition where a-array, n-no of elements in the array, num = number to be inserted, pos=Postion at which num has to be inserted.
+
 int[] insertAt(int a[], int n, int num, int pos) {
 
 }
 
 # 14
 Write a program to find whether duplicate number exists in an array. 
+
 int findDuplicate(int a[], int n) {
 
 }
