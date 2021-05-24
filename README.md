@@ -122,31 +122,9 @@ Third question was given input1 as n and input 2 to as array of integer of lengt
 
 # 26 (/programs/problem26.java)
 WAP to find the list of duplicate number from the array means 
-	{2,3,1,5,3,2,3,5,4} => {2,3,5}
+	{2,3,1,5,3,2,3,5,4} => {2,3,5}	
 
 # 27
-If the interview is on system then you need to prepare this types also. 
-
-	*****
-	
-	   ****
-	   
-	      ***
-	      
-	         **
-		 
-	            *
-		    
-	         **
-		 
-	      ***
-	      
-	   ****
-	   
-	*****
-	
-
-# 28
 Write a function "int decSeq(int a[], int n)" to find the length of the longest decreasing sequence in a given array, where 'a[]' is the array and 'n' is the number of elements in the array.
 Ex. If the contents of the array is {5,8,4,3,2,10,9,7,5,3,12,2}, then the longest decreasing sequence is {10,9,7,5,3}
 
