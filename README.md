@@ -126,6 +126,7 @@ WAP to find the list of duplicate number from the array means
 
 # 27
 If the interview is on system then you need to prepare this types also. 
+
 	*****
 	
 	   ****
