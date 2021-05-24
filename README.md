@@ -127,14 +127,23 @@ WAP to find the list of duplicate number from the array means
 # 27
 If the interview is on system then you need to prepare this types also. 
 	*****
+	
 	   ****
+	   
 	      ***
+	      
 	         **
+		 
 	            *
+		    
 	         **
+		 
 	      ***
+	      
 	   ****
+	   
 	*****
+	
 
 # 28
 Write a function "int decSeq(int a[], int n)" to find the length of the longest decreasing sequence in a given array, where 'a[]' is the array and 'n' is the number of elements in the array.
